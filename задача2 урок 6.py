@@ -1,0 +1,6 @@
+print (i,pус,":",англ,)
+print (--------)
+print (i,1;1)
+print(i,2:2,)
+print(3:3)
+print(-------------))
